@@ -1,4 +1,4 @@
-# eyes-on-3dgame
+# Eyes On Unity3D Game
 Unity3D Horror &amp; Puzzle Game
 
 # What will player do to achieve goal(s):
